@@ -1,0 +1,7 @@
+otchet.docx
+**/dz*.txt
+
+*.class
+target/
+.idea/
+*.iml
