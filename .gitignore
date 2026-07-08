@@ -5,3 +5,7 @@ otchet.docx
 target/
 .idea/
 *.iml
+
+day7/Borodino_clean.txt
+day7/listNames_sorted.txt
+*.ser
