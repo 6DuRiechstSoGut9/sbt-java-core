@@ -1,11 +1,6 @@
-otchet.docx
-**/dz*.txt
 
 *.class
 target/
 .idea/
 *.iml
-
-day7/Borodino_clean.txt
-day7/listNames_sorted.txt
 *.ser
